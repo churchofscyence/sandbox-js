@@ -23,13 +23,13 @@ Create source directory.
 ```
 % mkdir src
 % cd src
-% touch index.js
+% touch copy-object.js
 ```
 
 Change following configuration in the package.json file
 ```
   "scripts": {
-    "start": "node ./src/index.js"
+    "start": "node ./src/copy-object.js"
   },
 ```
 
@@ -37,3 +37,9 @@ Run the project
 ```
 % npm run start
 ```
+# References
+* [JavaScript Tutorial - javascripttutorial.net](https://www.javascripttutorial.net/)
+* [The Modern JavaScript Tutorial - javascript.info](https://javascript.info/)
+## Section2: Objects
+* [JS Copy an Object – How to Clone an Obj in JavaScript -Joel Olawanle - freecodecamp.org](https://www.freecodecamp.org/news/clone-an-object-in-javascript/)
+* [Object references and copying - javascript.info](https://javascript.info/object-copy)
