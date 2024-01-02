@@ -1,0 +1,12 @@
+{
+  "name": "section1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-copy-object": "node ./src/copy-object.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
