@@ -135,4 +135,4 @@ which is also an iterator.
 ## Section 4 : Promise
 * [Promise - developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 # Section 5 : Generate
-*[Generators - javascript.info](https://javascript.info/generators)
+* [Generators - javascript.info](https://javascript.info/generators)
