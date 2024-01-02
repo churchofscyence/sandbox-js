@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./src/index.js"
+    "start-promiseSuccessful": "node src/promiseSuccessful.js",
+    "start-promiseError": "node src/promiseError.js",
+    "start-promiseAsynchronous": "node src/asynchronous.js"
   },
   "keywords": [],
   "author": "",
