@@ -114,6 +114,14 @@ being attached.
 
 A promise is said to be settled if it is either fulfilled or rejected, but not pending.
 
+
+# Section 5 : Generate
+
+Generators are a special kind of function in JavaScript that allow you to define a custom iterator. 
+They are created using the function* syntax and can be paused and resumed at any point during their 
+execution using the yield keyword. When a generator function is called, it returns a generator object, 
+which is also an iterator.
+
 # References
 * [JavaScript Tutorial - javascripttutorial.net](https://www.javascripttutorial.net/)
 * [The Modern JavaScript Tutorial - javascript.info](https://javascript.info/)
@@ -126,3 +134,5 @@ A promise is said to be settled if it is either fulfilled or rejected, but not p
 * [JavaScript Callbacks - w3schools.com](https://www.w3schools.com/js/js_callback.asp)
 ## Section 4 : Promise
 * [Promise - developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+# Section 5 : Generate
+*[Generators - javascript.info](https://javascript.info/generators)
